@@ -1,3 +1,7 @@
-# typescript-example2
+# MAT library code example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-example2)
+Please see the [main repo](https://github.com/FlorisSteenkamp/mat-examples) for details.
+
+# StackBlitz
+
+[Live example](https://stackblitz.com/edit/typescript-jhukxd).
